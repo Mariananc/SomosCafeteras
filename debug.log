@@ -1,0 +1,4 @@
+[0417/184112.551:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0417/184112.556:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Haley\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acceso denegado. (0x5)
+[0417/185609.340:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0417/185609.344:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Haley\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: Acceso denegado. (0x5)
